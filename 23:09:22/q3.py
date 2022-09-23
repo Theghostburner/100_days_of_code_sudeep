@@ -5,6 +5,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+#ggwp, day 4 changes
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         curr = head
